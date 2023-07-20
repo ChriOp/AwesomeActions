@@ -5,7 +5,7 @@ on:
   
 jobs:
   hello-world:
-    name: Hello World Jon
+    name: Hello World Job
     runs-on: ubuntu-latest
     
     steps:
